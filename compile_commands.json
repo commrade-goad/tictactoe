@@ -1,0 +1,15 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-I./raylib-5.0_linux_amd64/include/",
+      "-o",
+      "main",
+      "src/main.c"
+    ],
+    "directory": "/home/fernando/Programming/C/tictactoe/",
+    "file": "/home/fernando/Programming/C/tictactoe/src/main.c",
+    "output": "/home/fernando/Programming/C/tictactoe/tictactoe"
+  }
+]
