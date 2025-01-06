@@ -3,7 +3,7 @@
 #include <math.h>
 #include <string.h>
 
-#define DEBUG_KEY
+/*#define DEBUG_KEY*/
 
 #define WINDOW_W 1280
 #define WINDOW_H 720
